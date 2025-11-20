@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+venv_stable/
+__pycache__/
+*.pyc
+
+# Large model files
+kurmanji_ngram_model.json
+*.zip
+
+# Keep only the optimized model
+
